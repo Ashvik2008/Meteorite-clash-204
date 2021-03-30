@@ -1,0 +1,4 @@
+Player = createSprite(300,550,20,20);
+Player.addImage(Player_Img);
+Player.scale = 0.65;
+Player.destroy();
